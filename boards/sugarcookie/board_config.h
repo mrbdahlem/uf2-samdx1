@@ -1,6 +1,8 @@
 #ifndef BOARD_CONFIG_H
 #define BOARD_CONFIG_H
 
+#define CRYSTALLESS    1
+
 #define VENDOR_NAME "Brian Dahlem"
 #define PRODUCT_NAME "SugarCookie"
 #define VOLUME_LABEL "SUGARBOOT"
